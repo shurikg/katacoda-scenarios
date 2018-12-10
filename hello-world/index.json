@@ -41,7 +41,7 @@
         },
         {
           "file": "hi.html",
-          "target": "~/templates/"
+          "target": "~/tutorial/templates/"
         }
       ],
       "host01": [
@@ -59,7 +59,7 @@
         },
         {
           "file": "hi.html",
-          "target": "~/templates/"
+          "target": "~/tutorial/templates/"
         }
       ]
     }
