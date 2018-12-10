@@ -2,7 +2,7 @@
   "title": "Hello Flask Scenario",
   "description": "Flask",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "5 minutes",
   "details": {
     "steps": [
       {
@@ -15,15 +15,7 @@
       },
       {
         "title": "Step 3 - templates and parameters",
-        "text": "step1.md"
-      },
-      {
-        "title": "Step 4 - docker",
-        "text": "step1.md"
-      },
-      {
-        "title": "Step 5 - markdown via docker",
-        "text": "step1.md"
+        "text": "step3.md"
       }
     ],
     "intro": {
@@ -42,6 +34,10 @@
         {
           "file": "app1.py",
           "target": "~/"
+        },
+        {
+          "file": "templates/hi.html",
+          "target": "~/templates/"
         }
       ],
       "host01": [
@@ -52,6 +48,10 @@
         {
           "file": "app1.py",
           "target": "~/"
+        },
+        {
+          "file": "templates/hi.html",
+          "target": "~/templates/"
         }
       ]
     }
