@@ -1,13 +1,31 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Hello Flask Scenario",
+  "description": "Flask",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
-    "steps": [{
-      "title": "Step 1 - Run Command",
-      "text": "step1.md"
-    }],
+    "steps": [
+      {
+        "title": "Step 1 - simple hello world example",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - routers and json response",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 3 - templates and parameters",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 4 - docker",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 5 - markdown via docker",
+        "text": "step1.md"
+      }
+    ],
     "intro": {
       "text": "intro.md",
       "credits": ""
@@ -21,6 +39,6 @@
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "docker"
   }
 }
