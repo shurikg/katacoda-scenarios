@@ -32,3 +32,7 @@ Let's check it, you can press on the `Display 5000` tab or open additional termi
 or open in brouser 
 
 https://[[HOST_SUBDOMAIN]]-5000-[[KATACODA_HOST]].environments.katacoda.com/
+
+Stop the running flask by `CTRL+C`
+
+`CTRL+C`{{execute}}
