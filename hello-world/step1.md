@@ -24,3 +24,7 @@ flask run --host=0.0.0.0`{{execute}}
 Let's check it, you can press on the `Display 5000` tab or open additional terminal and run there
 
 `curl http://127.0.0.1:5000`{{execute}}
+
+or open in brouser 
+
+https://[[HOST_SUBDOMAIN]]-[[KATACODA_HOST]].environments.katacoda.com/
