@@ -21,6 +21,6 @@ Now we can run our the first example of Hello-Word Flask
 `export FLASK_APP=app.py
 flask run --host=0.0.0.0`{{execute}}
 
-Let's check it
+Let's check it, you can press on the `Display 5000` tab or open additional terminal and run there
 
 `curl http://127.0.0.1:5000`{{execute}}
