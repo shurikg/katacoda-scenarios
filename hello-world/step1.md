@@ -10,7 +10,7 @@ We run the installation to local `modules` folder, because we don't have permiss
 
 Let's add this modules location to python modules path
 
-`export PYTHONPATH=${HOME}/module/lib/python2.7/site-packagess`{{execute}}
+`export PYTHONPATH=${HOME}/modules/lib/python2.7/site-packages`{{execute}}
 
 Now lets add the flask command to unix PATH
 
