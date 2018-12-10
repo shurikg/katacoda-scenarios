@@ -4,7 +4,7 @@ This is the simple example of Hello-Word Flask example
 
 Let's install the flask module
 
-`pip install --install-option="--prefix=${HOME}/modules" flask`{{execute}}
+`pip install --install-option="--prefix=${HOME}/modules/lib/python2.7/site-packages" flask`{{execute}}
 
 We run the installation to local `modules` folder, because we don't have permission to official location under python root.
 
