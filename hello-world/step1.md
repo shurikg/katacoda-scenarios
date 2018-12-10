@@ -16,6 +16,10 @@ Now lets add the flask command to unix PATH
 
 `export PATH=${PATH}:${HOME}/modules/bin`{{execute}}
 
+Let's see what we have in app.py
+
+`cat app.py`{{execute}}
+
 Now we can run our the first example of Hello-Word Flask
 
 `export FLASK_APP=app.py
