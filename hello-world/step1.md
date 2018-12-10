@@ -33,6 +33,6 @@ or open in brouser
 
 https://[[HOST_SUBDOMAIN]]-5000-[[KATACODA_HOST]].environments.katacoda.com/
 
-Stop the running flask by `CTRL+C`
+`echo "Send Ctrl+C before running Terminal"`{{execute interrupt}}
 
-`CTRL+C`{{execute}}
+<kbd>Ctrl</kbd>+<kbd>C</kbd>
