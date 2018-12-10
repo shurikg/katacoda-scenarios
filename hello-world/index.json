@@ -40,7 +40,7 @@
           "target": "~/"
         },
         {
-          "file": "templates/hi.html",
+          "file": "hi.html",
           "target": "~/templates/"
         }
       ],
@@ -58,7 +58,7 @@
           "target": "~/"
         },
         {
-          "file": "templates/hi.html",
+          "file": "hi.html",
           "target": "~/templates/"
         }
       ]
