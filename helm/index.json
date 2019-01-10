@@ -25,45 +25,6 @@
     "finish": {
       "text": "finish.md"
     },
-    "assets": {
-      "client": [
-        {
-          "file": "app.py",
-          "target": "~/"
-        },
-        {
-          "file": "app1.py",
-          "target": "~/"
-        },
-        {
-          "file": "app2.py",
-          "target": "~/"
-        },
-        {
-          "file": "hi.html",
-          "target": "~/tutorial/templates/"
-        }
-      ],
-      "host01": [
-        {
-          "file": "app.py",
-          "target": "~/"
-        },
-        {
-          "file": "app1.py",
-          "target": "~/"
-        },
-        {
-          "file": "app2.py",
-          "target": "~/"
-        },
-        {
-          "file": "hi.html",
-          "target": "~/tutorial/templates/"
-        }
-      ]
-    }
-  },
   "environment": {
     "uilayout": "terminal",
     "showdashboard": true,
